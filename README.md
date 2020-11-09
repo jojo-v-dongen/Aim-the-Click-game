@@ -4,6 +4,15 @@ Aim the Click game is a tkinter aim clicking game
 # Source code
 Source code is not available yet, if you would like to get the source code you can message me and I will instantly give it to you.
 
+# How to install?
+Download the .exe and follow the very simple instructions of the setup.  
+It will automatically make a shortcut on your desktop and the files will be located in your program files.
+
+# How to uninstall?
+You can uninstall the program with all its files like any other program on your computer.  
+If you type "uninstall" in the search bar there should be an uninstall application too.  
+Else you can go to `Control Panel\Programs\Programs and Features` and uninstall it from there.
+
 # The goal of the game
 The goal of the game is to click as many targets (green buttons) within the chosen time and set a record.  
 If you set a record you will automatically be asked for your name to put on the leaderboard.  
