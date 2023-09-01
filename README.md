@@ -2,7 +2,8 @@
 Aim the Click game is a tkinter aim clicking game
 
 # Source code
-Source code is not available yet, if you would like to get the source code you can message me and I will instantly give it to you.
+The source code has been made avalaible in the file atcg.py
+NOTE: This was one of the first Python projects I worked on, which means the code is not optimized, documented, or even extensively commented.
 
 # How to install?
 Download the .exe and follow the very simple instructions of the setup.  
